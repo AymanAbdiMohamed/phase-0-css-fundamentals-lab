@@ -35,4 +35,34 @@ nav a:hover {
   text-align: center;
   width: 75%;
   margin: auto;
+
+figcaption {
+  margin-top: 8px;
+  font-size: 15px;
+}
+img {
+  width: 100%;
+  border: 1px solid #ccc;
+}
+p {
+  font-size: 15px;
+  text-align: justify;
+  margin: 15px;
+}
+}
+
+
+#details {
+  display: flex;
+  justify-content: space-around;
+  background: red;
+  color: black;
+  padding: 20px;
+h3 {
+  margin-top: 0;
+}
+a {
+  color: rgb(41, 39, 172);
+  text-decoration: none;
+}
 }
